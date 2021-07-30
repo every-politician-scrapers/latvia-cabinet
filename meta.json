@@ -1,0 +1,15 @@
+{
+    "cabinet": {
+      "id": "Q60890402",
+      "start": "2019-01-23"
+    },
+    "source": {
+        "url":   "https://www.mk.gov.lv/en/cabinet-composition",
+        "title": "Cabinet composition | Ministru kabinets",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/latvia-cabinet"
+}
