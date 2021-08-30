@@ -2,7 +2,6 @@ wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q58371500,Anita Muižniece,Anita Muižniece,female,1987-01-01T00:00:00Z,9,https://www.mk.gov.lv/en/cabinet-composition,Q16361594,Minister for Education and Science,Q58371500-C0C57051-B2F1-424B-BB8B-E8D0DA95C6A6
 Q713138,Artis Pabriks,Artis Pabriks,male,1966-03-22T00:00:00Z,11,https://www.mk.gov.lv/en/cabinet-composition,Q16361570,Deputy Prime Minister,Q713138-75F23FCE-76D8-4F0B-8E6C-80AAB5DD9164
 Q713138,Artis Pabriks,Artis Pabriks,male,1966-03-22T00:00:00Z,11,https://www.mk.gov.lv/en/cabinet-composition,Q6590375,Minister for Defence,Q713138-1E3EB49F-BB81-4305-B5A1-B89C173B6A13
-Q3736499,Arturs Krišjānis Kariņš,Arturs Krišjānis Kariņš,male,1964-12-13T00:00:00Z,11,https://www.mk.gov.lv/en/cabinet-composition,Q369500,Prime Minister,Q3736499-6bc9d4e3-4e1f-820c-a4ff-b205381345f2
 Q58371508,Arturs Toms Plešs,Artūrs Toms Plešs,male,1992-01-01T00:00:00Z,9,https://www.mk.gov.lv/en/cabinet-composition,Q16361617,Minister for Environmental Protection and Regional Development,Q58371508-408B3082-0ECF-4A95-823D-847D9875BF0C
 Q3015072,Daniels Pavļuts,Daniels Pavļuts,male,1976-05-14T00:00:00Z,11,https://www.mk.gov.lv/en/cabinet-composition,Q98966157,Minister for Health,Q3015072-375DB2F6-D6E1-4386-AC01-5957F805BF4B
 Q3047551,Edgars Rinkēvičs,Edgars Rinkēvičs,male,1973-09-21T00:00:00Z,11,https://www.mk.gov.lv/en/cabinet-composition,Q57125919,Minister for Foreign Affairs,Q3047551-A934D6EB-A747-4A91-8617-192120C66785
@@ -12,6 +11,7 @@ Q3191217,Jānis Bordāns,Jānis Bordāns,male,1967-06-21T00:00:00Z,11,https://ww
 Q11731915,Jānis Reirs,Jānis Reirs,male,1961-09-23T00:00:00Z,11,https://www.mk.gov.lv/en/cabinet-composition,Q6590389,Minister for Finance,Q11731915-116FB092-6E6F-4746-B96F-6005D87360BF
 Q58371528,Jānis Vitenbergs,Jānis Vitenbergs,male,1985-01-01T00:00:00Z,9,https://www.mk.gov.lv/en/cabinet-composition,Q20557220,Minister for Economics,Q58371528-A0B9DC59-AB9F-49A9-9D02-0DB3CCA8E8D8
 Q6111944,Kaspars Gerhards,Kaspars Gerhards,male,1969-02-07T00:00:00Z,11,https://www.mk.gov.lv/en/cabinet-composition,Q16361623,Minister for Agriculture,Q6111944-a98257f4-4f71-3fb7-99c4-13a8a99b98d4
+Q3736499,Krišjānis Kariņš,Krišjānis Kariņš,male,1964-12-13T00:00:00Z,11,https://www.mk.gov.lv/en/cabinet-composition,Q369500,Prime Minister,Q3736499-6bc9d4e3-4e1f-820c-a4ff-b205381345f2
 Q58371482,Marija Golubeva,Marija Golubeva,female,1973-01-01T00:00:00Z,9,https://www.mk.gov.lv/en/cabinet-composition,Q107710591,Minister for Interior,Q58371482-E85411E3-703A-4AD1-ABE2-6106D19300F2
 Q56449573,Nauris Puntulis,Nauris Puntulis,male,1961-07-17T00:00:00Z,11,https://www.mk.gov.lv/en/cabinet-composition,Q25907368,Minister for Culture,Q56449573-01F1A53B-A425-475B-92F5-C09E31BAF564
 Q107376864,Tālis Linkaits,Tālis Linkaits,male,1970-08-18T00:00:00Z,11,https://www.mk.gov.lv/en/cabinet-composition,Q16361608,Minister for Transport,Q107376864-835D184C-38C7-4F7D-AB16-D845574AFE39
