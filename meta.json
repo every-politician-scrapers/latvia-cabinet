@@ -1,7 +1,12 @@
 {
+    "jurisdiction": {
+      "name": "Latvia",
+      "id": "Q211"
+    },
     "cabinet": {
       "id": "Q60890402",
-      "start": "2019-01-23"
+      "start": "2019-01-23",
+      "parent": "Q2502537"
     },
     "source": {
         "url":   "https://www.mk.gov.lv/en/cabinet-composition",
