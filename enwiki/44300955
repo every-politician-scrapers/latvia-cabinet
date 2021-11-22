@@ -1,0 +1,198 @@
+{
+  "title": "Ināra Mūrniece",
+  "pageID": 44300955,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "All for Latvia! politicians",
+    "National Alliance (Latvia) politicians",
+    "Speakers of the Saeima",
+    "Deputies of the 11th Saeima",
+    "Deputies of the 12th Saeima",
+    "Deputies of the 13th Saeima",
+    "Women deputies of the Saeima",
+    "21st-century Latvian women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ināra Mūrniece (born 30 December 1970) is a Latvian journalist and politician who is Speaker of the Saeima (Latvian Parliament) since 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Speaker of the Saeima"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ināra Mūrniece"
+                ]
+              }
+            },
+            {
+              "text": "She was re-elected as Speaker on 6 November 2018 by 44 votes to 32."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Latvian journalist and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1970",
+          "month": "12",
+          "day": "30",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Ritvars Jansons",
+          "from": "1995",
+          "to": "2015",
+          "end": "div",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ināra Mūrniece"
+          },
+          "image": {
+            "text": "12.Saeimas priekšsēdētāja Ināra Mūrniece (42993645042).jpg"
+          },
+          "office": {
+            "text": "Speaker of the Saeima",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the Saeima"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "4 November 2014"
+          },
+          "predecessor": {
+            "text": "Solvita Āboltiņa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Solvita Āboltiņa"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 30, 1970"
+          },
+          "party": {
+            "text": "National Alliance",
+            "links": [
+              {
+                "text": "National Alliance",
+                "type": "internal",
+                "page": "National Alliance (Latvia)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Ritvars Jansons (m. 1995-2015)"
+          },
+          "children": {
+            "text": "Regīna Anna Mūrniece"
+          },
+          "alma_mater": {
+            "text": "University of Latvia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Latvia"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.baltic-course.com/eng2/legislation/?doc=98521",
+          "title": "Inara Murniece elected new Saeima speaker in Latvia",
+          "date": "5 November 2014",
+          "publisher": "The Baltic Course",
+          "access-date": "6 November 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://eng.lsm.lv/article/politics/saeima/murniece-re-elected-as-saeima-speaker.a298731/",
+          "title": "Mūrniece re-elected as Saeima speaker",
+          "date": "6 November 2018",
+          "publisher": "Public Broadcasting of Latvia",
+          "access-date": "6 November 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://bnn-news.com/inara-murniece-to-remain-the-speaker-of-the-saeima-of-the-republic-of-latvia-193487",
+          "title": "Ināra Mūrniece to remain the speaker of the Saeima of the Republic of Latvia",
+          "date": "6 November 2018",
+          "publisher": "Baltic News Network",
+          "access-date": "6 November 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.baltic-course.com/eng2/baltic_states/?doc=144937",
+          "title": "Inara Murniece re-elected Latvia’s Saeima speaker",
+          "date": "6 November 2018",
+          "publisher": "The Baltic Course",
+          "access-date": "6 November 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Solvita Āboltiņa",
+          "template": "s-bef"
+        },
+        {
+          "title": "Speaker of the Saeima",
+          "years": "2014–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "latvia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

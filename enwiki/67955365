@@ -1,0 +1,193 @@
+{
+  "title": "Anita Muižniece",
+  "pageID": 67955365,
+  "categories": [
+    "Living people",
+    "Place of birth missing (living people)",
+    "Ministers of Education and Science of Latvia",
+    "21st-century Latvian politicians",
+    "New Conservative Party (Latvia) politicians",
+    "21st-century Latvian women politicians",
+    "1987 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Anita Muižniece is a Latvian politician.",
+              "formatting": {
+                "bold": [
+                  "Anita Muižniece"
+                ]
+              }
+            },
+            {
+              "text": "As of June 3, 2021, she serves as Minister for Education and Science in the Kariņš cabinet.",
+              "links": [
+                {
+                  "text": "Minister for Education and Science",
+                  "type": "internal",
+                  "page": "List of Ministers for Education and Science of Latvia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kariņš cabinet"
+                }
+              ]
+            },
+            {
+              "text": "She is affiliated with the New Conservative Party.",
+              "links": [
+                {
+                  "text": "New Conservative Party.",
+                  "type": "internal",
+                  "page": "New Conservative Party (Latvia)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Latvian politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Anita Muižniece"
+          },
+          "office": {
+            "text": "Minister of Education and Science."
+          },
+          "primeminister": {
+            "text": "Arturs Krišjānis Kariņš",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arturs Krišjānis Kariņš"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "3 June 2021"
+          },
+          "predecessor": {
+            "text": "Ilga Šuplinska",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ilga Šuplinska"
+              }
+            ]
+          },
+          "image": {
+            "text": "13.Saeimas deputātu svinīgais solījums (45056774714).jpg"
+          },
+          "birth_date": {
+            "text": "27 November 1987"
+          },
+          "residence": {
+            "text": "Daugmale Parish, Ķekava Municipality, Latvia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daugmale Parish"
+              },
+              {
+                "text": "Ķekava Municipality",
+                "type": "internal",
+                "page": "Ķekava Municipality"
+              },
+              {
+                "type": "internal",
+                "page": "Latvia"
+              }
+            ]
+          },
+          "party": {
+            "text": "New Conservative Party (Latvia)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Conservative Party (Latvia)"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Riga, Latvian SSR, USSR (Now Latvia)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Riga"
+              },
+              {
+                "type": "internal",
+                "page": "Latvian SSR"
+              },
+              {
+                "type": "internal",
+                "page": "USSR"
+              },
+              {
+                "type": "internal",
+                "page": "Latvia"
+              }
+            ]
+          },
+          "president": {
+            "text": "Egils Levits",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Egils Levits"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Anita Muižniece {{!}} Ministru kabinets",
+          "url": "https://www.mk.gov.lv/en/employee/anita-muizniece",
+          "access-date": "2021-06-15",
+          "website": "www.mk.gov.lv",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-06-02",
+          "title": "Saeimas deputāte Anita Muižniece piekritusi kļūt par Izglītības un zinātnes ministri",
+          "url": "https://www.apollo.lv/7262464/saeimas-deputate-anita-muizniece-piekritusi-klut-par-izglitibas-un-zinatnes-ministri",
+          "access-date": "2021-06-15",
+          "website": "Apollo.lv",
+          "language": "lv",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "latvia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
