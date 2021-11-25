@@ -42,7 +42,14 @@
               ]
             },
             {
-              "text": "Since 3 June 2021 she is serving as Minister of the Interior of Latvia."
+              "text": "Since 3 June 2021 she is serving as Minister of the Interior of Latvia.",
+              "links": [
+                {
+                  "text": "Minister of the Interior of Latvia",
+                  "type": "internal",
+                  "page": "List of Ministers of the Interior of Latvia"
+                }
+              ]
             },
             {
               "text": "In her academic work, she specializes in the politics of education and immigration."
@@ -134,7 +141,7 @@
               ]
             },
             {
-              "text": "She then attended the University of Cambridge, where she earned doctorate in 2000.",
+              "text": "She then attended the University of Cambridge, where she earned her doctorate in 2000.",
               "links": [
                 {
                   "type": "internal",
@@ -147,15 +154,11 @@
         {
           "sentences": [
             {
-              "text": "In 1999, Golubeva became a Lecturer at the Latvian Academy of Culture (lv), where she taught courses in cultural history.",
+              "text": "In 1999, Golubeva became a Lecturer at the Latvian Academy of Culture, where she taught courses in cultural history.",
               "links": [
                 {
-                  "text": "lv",
-                  "type": "interwiki",
-                  "wiki": {
-                    "wiki": "",
-                    "lang": "lv"
-                  }
+                  "type": "internal",
+                  "page": "Latvian Academy of Culture"
                 }
               ]
             },
@@ -173,7 +176,13 @@
               ]
             },
             {
-              "text": "She then worked as a consultant at the State Chancellery, and from 2004 to 2012 and again from 2014 to 2016 she worked as a researcher at the public policy research center PROVIDUS."
+              "text": "She then worked as a consultant at the State Chancellery, and from 2004 to 2012 and again from 2014 to 2016 she worked as a researcher at the Latvian public policy research center Providus.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Providus"
+                }
+              ]
             },
             {
               "text": "She has also consulted for ICF International.",
@@ -192,10 +201,13 @@
         {
           "sentences": [
             {
-              "text": "In 2017, Golubeva was a founding member of the Development/For!"
-            },
-            {
-              "text": "party, and she was elected to its first board."
+              "text": "In 2017, Golubeva was a founding member of the Movement For! party, and she was elected to its first board.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Movement For!"
+                }
+              ]
             }
           ]
         },
@@ -221,6 +233,10 @@
             {
               "text": "Golubeva is the second openly LGBT member of the Saeima in Latvian history, after Edgars Rinkēvičs.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "LGBT"
+                },
                 {
                   "type": "internal",
                   "page": "Edgars Rinkēvičs"
