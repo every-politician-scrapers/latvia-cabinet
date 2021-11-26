@@ -844,10 +844,18 @@
         {
           "sentences": [
             {
-              "text": "In September 2021, Levits was accused of putting inappropriate pressure on members of the Development/For!"
-            },
-            {
-              "text": "party to nominate his legal advisor Irēna Kucina to a position on the Constitutional Court."
+              "text": "In September 2021, Levits was accused of putting inappropriate pressure on members of the Development/For! party alliance to nominate his legal advisor Irēna Kucina to a position on the Constitutional Court.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Development/For!"
+                },
+                {
+                  "text": "Constitutional Court",
+                  "type": "internal",
+                  "page": "Constitutional Court of Latvia"
+                }
+              ]
             },
             {
               "text": "Levits admitted that a phone call with those party members had taken place, but denied making any threats and called the controversy a \"misunderstanding\"."
