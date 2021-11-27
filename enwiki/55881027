@@ -74,19 +74,178 @@
           ]
         }
       ],
-      "images": [
-        {
-          "file": "File:Jānis Reirs.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/J%C4%81nis_Reirs.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/J%C4%81nis_Reirs.jpg",
-          "caption": "Jānis Reirs in 2010",
-          "links": []
-        }
-      ],
       "templates": [
+        {
+          "year": "1961",
+          "month": "09",
+          "day": "23",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "template": "lat"
+        },
         {
           "description": "Latvian politician",
           "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jānis Reirs"
+          },
+          "image": {
+            "text": "2016-08-29 BSPC Jānis Reirs by Olaf Kosinsky-8.jpg"
+          },
+          "office": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "List of Ministers of Finance of Latvia"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Arturs Krišjānis Kariņš",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arturs Krišjānis Kariņš"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 January 2019"
+          },
+          "predecessor": {
+            "text": "Dana Reizniece-Ozola",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dana Reizniece-Ozola"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "List of Ministers of Finance of Latvia"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Laimdota Straujuma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Laimdota Straujuma"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "5 November 2014"
+          },
+          "term_end1": {
+            "text": "11 February 2016"
+          },
+          "predecessor1": {
+            "text": "Andris Vilks",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andris Vilks"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Dana Reizniece-Ozola",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dana Reizniece-Ozola"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister of Welfere"
+          },
+          "primeminister3": {
+            "text": "Māris Kučinskis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Māris Kučinskis"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "11 February 2016"
+          },
+          "term_end3": {
+            "text": "23 January 2019"
+          },
+          "predecessor3": {
+            "text": "Uldis Augulis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uldis Augulis"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Ramona Petraviča",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ramona Petraviča"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 23, 1961"
+          },
+          "birth_place": {
+            "text": "Riga, Latvian SSR (Now )",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Riga"
+              },
+              {
+                "type": "internal",
+                "page": "Latvian SSR"
+              }
+            ]
+          },
+          "party": {
+            "text": "New Era Party (Until 2011) Unity (Latvia)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Era Party"
+              },
+              {
+                "type": "internal",
+                "page": "Unity (Latvia)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Latvia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Latvia"
+              }
+            ]
+          }
         }
       ],
       "references": [
