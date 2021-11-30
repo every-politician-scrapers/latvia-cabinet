@@ -99,27 +99,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "list": [
-            "Kaspars Gerhards"
-          ],
-          "template": "commons category"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "latvia-politician-stub"
-        }
-      ]
     }
   ]
 }

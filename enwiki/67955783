@@ -57,27 +57,11 @@
           "template": "refimprove"
         },
         {
-          "text": "Ministry of Welfare (Latvia)",
-          "lt": "Minister of Welfare",
-          "lan1": "lv",
-          "text1": "Latvijas Republikas Labklājības ministrija",
-          "template": "ill"
-        },
-        {
           "year": "1978",
           "month": "12",
           "day": "04",
           "df": "yes",
           "template": "birth date and age"
-        },
-        {
-          "text": "Ministry of Welfare (Latvia)",
-          "lt": "Minister of Welfare",
-          "lan1": "lv",
-          "text1": "Latvijas Republikas Labklājības ministrija",
-          "lan2": "es",
-          "text2": "Ministerio de Bienestar de Letonia",
-          "template": "ill"
         }
       ],
       "infoboxes": [
@@ -148,51 +132,6 @@
             "text": "Gatis Eglītis 2020.jpg"
           }
         }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "latvia-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "1) Gatis Eglītis Cabinet of Ministers. Archived from the original June 5 2021. Retrieved June 15 2021.",
-            "links": [
-              {
-                "text": "''Gatis Eglītis''",
-                "type": "external",
-                "site": "https://www.mk.gov.lv/en/employee/gatis-eglitis"
-              },
-              {
-                "text": "Archived",
-                "type": "external",
-                "site": "https://web.archive.org/web/20210605222047/https://www.mk.gov.lv/en/employee/gatis-eglitis"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "Gatis Eglītis",
-                "Cabinet of Ministers."
-              ]
-            }
-          }
-        ]
       ]
     }
   ]

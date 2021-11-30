@@ -157,42 +157,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "commons category"
-        },
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Solvita Āboltiņa",
-          "template": "s-bef"
-        },
-        {
-          "title": "Speaker of the Saeima",
-          "years": "2014–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "latvia-politician-stub"
-        }
-      ]
     }
   ]
 }
