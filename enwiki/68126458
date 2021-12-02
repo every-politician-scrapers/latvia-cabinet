@@ -16,9 +16,6 @@
       "depth": 0,
       "paragraphs": [
         {
-          "sentences": []
-        },
-        {
           "sentences": [
             {
               "text": "Mārtiņš Kazāks is a Latvian economist and has been governor of the central Bank of Latvia since December 2019.",
@@ -49,20 +46,47 @@
           ]
         }
       ],
-      "images": [
-        {
-          "file": "File:Saeimas 12.decembra sēde (49207284858).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Saeimas_12.decembra_s%C4%93de_(49207284858).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Saeimas_12.decembra_s%C4%93de_(49207284858).jpg",
-          "caption": "Kazāks in 2019",
-          "links": [],
-          "alt": "Mārtiņš Kazāks"
-        }
-      ],
       "templates": [
         {
           "description": "Latvian economist and governor",
           "template": "short description"
+        },
+        {
+          "year": "1973",
+          "month": "09",
+          "day": "19",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mārtiņš Kazāks"
+          },
+          "image": {
+            "text": "Saeimas 12.decembra sēde (49207284858).jpg"
+          },
+          "birth_date": {
+            "text": "September 19, 1973"
+          },
+          "alma_mater": {
+            "text": "University of Latvia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Latvia"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Governor of the central Bank of Latvia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bank of Latvia"
+              }
+            ]
+          }
         }
       ],
       "references": [

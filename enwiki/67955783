@@ -57,11 +57,27 @@
           "template": "refimprove"
         },
         {
+          "text": "Ministry of Welfare (Latvia)",
+          "lt": "Minister of Welfare",
+          "lan1": "lv",
+          "text1": "Latvijas Republikas Labklājības ministrija",
+          "template": "ill"
+        },
+        {
           "year": "1978",
           "month": "12",
           "day": "04",
           "df": "yes",
           "template": "birth date and age"
+        },
+        {
+          "text": "Ministry of Welfare (Latvia)",
+          "lt": "Minister of Welfare",
+          "lan1": "lv",
+          "text1": "Latvijas Republikas Labklājības ministrija",
+          "lan2": "es",
+          "text2": "Ministerio de Bienestar de Letonia",
+          "template": "ill"
         }
       ],
       "infoboxes": [
