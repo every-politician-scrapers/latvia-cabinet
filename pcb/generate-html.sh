@@ -4,33 +4,34 @@ TMPFILE=$(mktemp)
 HOLDERS=$(mktemp)
 RAWBIOS=$(mktemp)
 BIO_CSV=$(mktemp)
+ENUM_PS=$(mktemp)
 
 PERSON_PROPS="en,P31,P18,P21,P27,P1559,P1477,P2561,P735,P734,P1950,P5056,P2652,P569,P19,P570,P22,P25,P26,P40,P3373,P39,P69,P511,P102,P3602,sitelinks"
 
-# Current holders of each wanted position
+# Holders of each wanted position
 qsv select position wikidata/wanted-positions.csv |
   qsv behead |
   xargs wd sparql pcb/holders.js -f csv > $TMPFILE
 sed -e 's#http://www.wikidata.org/entity/##g' -e 's/T00:00:00Z//g' $TMPFILE > $HOLDERS
 
-# Biographical info for current officeholders
+# Biographical info for officeholders
 qsv select person $HOLDERS |
   qsv dedup |
   qsv sort |
   qsv behead |
   wd data --props $PERSON_PROPS --simplify --time-converter simple-day --keep qualifiers,nontruthy,ranks,nondeprecated,richvalues > $RAWBIOS
 
-# TODO post-process anything with precision < 9
 echo "id,name,gender,dob,dobp,dod,dodp,image,enwiki" > $BIO_CSV
-jq -r '[
+jq -r 'def highest(array): (array | sort_by(.rank) | reverse | first.value);
+  [
     .id,
     .labels.en,
-    (.claims.P21 | sort_by(.rank) | reverse | first.value),
-    (.claims.P569 | sort_by(.rank) | reverse | first.value.time),
-    (.claims.P569 | sort_by(.rank) | reverse | first.value.precision),
-    (.claims.P570 | sort_by(.rank) | reverse | first.value.time),
-    (.claims.P570 | sort_by(.rank) | reverse | first.value.precision),
-    (.claims.P18 | sort_by(.rank) | reverse | first.value),
+    highest(.claims.P21),
+    if highest(.claims.P569).precision >= 9 then highest(.claims.P569).time else null end,
+    highest(.claims.P569).precision,
+    highest(.claims.P570).time,
+    highest(.claims.P570).precision,
+    highest(.claims.P18),
     (try (.sitelinks.enwiki) catch null)
   ] | @csv' $RAWBIOS |
   sed -e 's/Q6581097/male/' -e 's/Q6581072/female/' >> $BIO_CSV
@@ -38,12 +39,19 @@ jq -r '[
 # TODO: other positions
 # TODO: relations
 
-# Generate current.csv
-qsv join position wikidata/wanted-positions.csv position $HOLDERS |
-  qsv select position,title,person,start > $TMPFILE
+# Generate holders21.csv, keeping position order from wanted-positions
+qsv enum wikidata/wanted-positions.csv > $ENUM_PS
+qsv join position $ENUM_PS position $HOLDERS |
+  qsv select index,position,title,person,start,end > $TMPFILE
 qsv join person $TMPFILE id $BIO_CSV |
-  qsv select title,name,person,start,gender,dob,dod,image,enwiki |
-  qsv rename position,person,personID,start,gender,DOB,DOD,image,enwiki > html/current.csv
+  qsv sort -s person |
+  qsv sort -s start |
+  qsv sort -N -s index |
+  qsv select title,name,person,start,end,gender,dob,dod,image,enwiki |
+  qsv rename position,person,personID,start,end,gender,DOB,DOD,image,enwiki > html/holders21.csv
+
+# Generate current.csv
+qsv search -s end -v . html/holders21.csv | qsv select \!end > html/current.csv
 
 # Generate HTML
 erb country="$(jq -r .jurisdiction.name meta.json)" csvfile=html/current.csv -r csv -T- pcb/index.erb > html/index.html
@@ -76,8 +84,20 @@ if [ ${#warnings[@]} -gt 0 ]; then
   printf '\t%s\n' "${warnings[@]}"
 fi
 
+warnings=($(qsv frequency -s position html/current.csv -l 0 | qsv search -s count -v '^1$' | qsv select field,value | qsv behead))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "Multiple holders:"
+  printf '\t%s\n' "${warnings[@]}"
+fi
+
 warnings=($(qsv search -s dobp -v 11 $BIO_CSV | qsv select id,name,dob,dobp | qsv sort -N -s dobp | qsv behead))
 if [ ${#warnings[@]} -gt 0 ]; then
   echo "Missing/short DOB:"
+  printf '\t%s\n' "${warnings[@]}"
+fi
+
+warnings=($(qsv search -s gender -v male html/current.csv | qsv behead))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "Missing gender:"
   printf '\t%s\n' "${warnings[@]}"
 fi
