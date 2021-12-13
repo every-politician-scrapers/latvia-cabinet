@@ -1,7 +1,7 @@
 module.exports = (...positions) => {
   positions = positions.map(value => `wd:${value}`).join(' ')
 
-  return `SELECT DISTINCT ?person ?position ?start ?end ?ps
+  return `SELECT DISTINCT ?person ?position ?start ?end ?prev ?next ?ps
     WITH {
       SELECT DISTINCT ?person ?position ?startNode ?endNode ?ps
       WHERE {
@@ -36,8 +36,10 @@ module.exports = (...positions) => {
       INCLUDE %statements .
       ?startNode wikibase:timeValue ?startV ; wikibase:timePrecision ?startP .
       ?endNode   wikibase:timeValue ?endV   ; wikibase:timePrecision ?endP .
-
       FILTER (?startV < NOW() && YEAR(?endV) >= 2000)
+
+      OPTIONAL { ?ps pq:P1365 ?prev }
+      OPTIONAL { ?ps pq:P1366 ?next }
 
       BIND (
         COALESCE(

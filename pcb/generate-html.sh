@@ -5,6 +5,7 @@ HOLDERS=$(mktemp)
 RAWBIOS=$(mktemp)
 BIO_CSV=$(mktemp)
 ENUM_PS=$(mktemp)
+EXTD_21=$(mktemp)
 
 PERSON_PROPS="en,P31,P18,P21,P27,P1559,P1477,P2561,P735,P734,P1950,P5056,P2652,P569,P19,P570,P22,P25,P26,P40,P3373,P39,P69,P511,P102,P3602,sitelinks"
 
@@ -42,13 +43,14 @@ jq -r 'def highest(array): (array | sort_by(.rank) | reverse | first.value);
 # Generate holders21.csv, keeping position order from wanted-positions
 qsv enum wikidata/wanted-positions.csv > $ENUM_PS
 qsv join position $ENUM_PS position $HOLDERS |
-  qsv select index,position,title,person,start,end > $TMPFILE
+  qsv select index,position,title,person,start,end,prev,next > $TMPFILE
 qsv join person $TMPFILE id $BIO_CSV |
   qsv sort -s person |
   qsv sort -s start |
   qsv sort -N -s index |
-  qsv select title,name,person,start,end,gender,dob,dod,image,enwiki |
-  qsv rename position,person,personID,start,end,gender,DOB,DOD,image,enwiki > html/holders21.csv
+  qsv select title,name,person,start,end,gender,dob,dod,image,enwiki,prev,next |
+  qsv rename position,person,personID,start,end,gender,DOB,DOD,image,enwiki,prev,next > $EXTD_21
+qsv select \!prev $EXTD_21 | qsv select \!next > html/holders21.csv
 
 # Generate current.csv
 qsv search -s end -v . html/holders21.csv | qsv select \!end > html/current.csv
@@ -62,42 +64,56 @@ IFS=$'\n'
 
 warnings=($(qsv join --left-anti title wikidata/wanted-positions.csv position html/current.csv | qsv behead))
 if [ ${#warnings[@]} -gt 0 ]; then
-  echo "No matches for:"
-  printf '\t%s\n' "${warnings[@]}"
+  echo "## No matches for:"
+  printf '* %s\n' "${warnings[@]}"
 fi
 
 warnings=($(qsv search -s DOD . html/current.csv | qsv behead))
 if [ ${#warnings[@]} -gt 0 ]; then
-  echo "Dead:"
-  printf '\t%s\n' "${warnings[@]}"
+  echo "## Dead:"
+  printf '* %s\n' "${warnings[@]}"
 fi
 
 warnings=($(qsv join --left-anti pid data/wikidata.csv position wikidata/wanted-positions.csv | qsv select pid,position | qsv behead))
 if [ ${#warnings[@]} -gt 0 ]; then
-  echo "In data/wikidata but not wanted-positions:"
-  printf '\t%s\n' "${warnings[@]}"
+  echo "## In data/wikidata but not wanted-positions:"
+  printf '* %s\n' "${warnings[@]}"
 fi
 
 warnings=($(qsv join --left-anti wdid data/wikidata.csv personID html/current.csv | qsv select wdid,name,pid,position | qsv behead))
 if [ ${#warnings[@]} -gt 0 ]; then
-  echo "In data/wikidata but not current.csv:"
-  printf '\t%s\n' "${warnings[@]}"
+  echo "## In data/wikidata but not current.csv:"
+  printf '* %s\n' "${warnings[@]}"
 fi
 
 warnings=($(qsv frequency -s position html/current.csv -l 0 | qsv search -s count -v '^1$' | qsv select field,value | qsv behead))
 if [ ${#warnings[@]} -gt 0 ]; then
-  echo "Multiple holders:"
-  printf '\t%s\n' "${warnings[@]}"
+  echo "## Multiple holders:"
+  printf '* %s\n' "${warnings[@]}"
 fi
 
-warnings=($(qsv search -s dobp -v 11 $BIO_CSV | qsv select id,name,dob,dobp | qsv sort -N -s dobp | qsv behead))
+warnings=($(qsv search -s dobp -v 11 $BIO_CSV | qsv select id,name,dob,dobp | qsv sort -N -s dobp | qsv table | qsv behead))
 if [ ${#warnings[@]} -gt 0 ]; then
-  echo "Missing/short DOB:"
-  printf '\t%s\n' "${warnings[@]}"
+  echo "## Missing/short DOB:"
+  printf '* %s\n' "${warnings[@]}"
 fi
 
 warnings=($(qsv search -s gender -v male html/current.csv | qsv behead))
 if [ ${#warnings[@]} -gt 0 ]; then
-  echo "Missing gender:"
-  printf '\t%s\n' "${warnings[@]}"
+  echo "## Missing gender:"
+  printf '* %s\n' "${warnings[@]}"
 fi
+
+warnings=($(qsv join --left-anti prev $EXTD_21 personID html/holders21.csv | qsv search -s start "^2" | qsv search -s prev . | qsv select prev,position,start | qsv sort -s start -R | qsv behead | qsv table))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "## Missing predecessors:"
+  printf '* %s\n' "${warnings[@]}"
+fi
+
+warnings=($(qsv join --left-anti next $EXTD_21 personID html/holders21.csv | qsv search -s next . | qsv select next,position,end | qsv sort -s end -R | qsv behead | qsv table))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "## Missing successors:"
+  printf '* %s\n' "${warnings[@]}"
+fi
+
+
