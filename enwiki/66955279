@@ -136,43 +136,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://de.zxc.wiki/wiki/Egils_Le%C5%A1%C4%8Dinskis",
-          "title": "Egils Leščinskis - zxc.wiki",
-          "website": "de.zxc.wiki",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.sargs.lv/lv/nbs/2019-11-05/zemessardzes-komandierim-pieskirta-brigades-generala-dienesta-pakape",
-          "title": "Zemessardzes komandierim piešķirta brigādes ģenerāļa dienesta pakāpe",
-          "website": "Sargs.lv",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.sargs.lv/lv/nbs/2019-05-30/pulkvedis-e-lescinskis-jaturpina-brigades-generala-ozolina-iesaktie-attistibas",
-          "title": "Pulkvedis E. Leščinskis: jāturpina brigādes ģenerāļa A. Ozoliņa iesāktie attīstības virzieni",
-          "website": "Sargs.lv",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.president.lv/en/news/news/address-of-the-president-of-latvia-egils-levits-at-the-appointment-of-egils-lescinskis-to-the-rank-of-army-general-26012",
-          "title": "Address of the President of Latvia, Egils Levits, at the appointment of Egils Leščinskis to the rank of Army General",
-          "website": "www.president.lv",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.zs.mil.lv/lv/cilveks/egils-lescinskis",
-          "title": "Egils Leščinskis &#124; Zemessardze",
-          "website": "www.zs.mil.lv",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

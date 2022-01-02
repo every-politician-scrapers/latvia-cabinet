@@ -122,26 +122,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Cabinet composition {{!}} Ministru kabinets",
-          "url": "https://www.mk.gov.lv/en/cabinet-composition",
-          "access-date": "2021-06-16",
-          "website": "www.mk.gov.lv",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Talis LINKAITS {{!}} Satiksmes ministrija",
-          "url": "https://www.sam.gov.lv/en/node/4",
-          "access-date": "2021-06-16",
-          "website": "www.sam.gov.lv",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
