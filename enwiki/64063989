@@ -128,36 +128,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Jānis Vitenbergs - Ekonomikas Ministrija",
-          "url": "https://www.em.gov.lv/lv/Ministrija/par_ministriju_/ministrijas_vadiba/25684-janis-vitenbergs",
-          "website": "www.em.gov.lv",
-          "access-date": "2020-05-25",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://eng.lsm.lv/article/politics/politics/economics-minister-dismissed-from-office.a404316/",
-          "title": "Economics Minister dismissed from office",
-          "last": "Līcīte",
-          "first": "Madara",
-          "publisher": "Public Broadcasting of Latvia",
-          "language": "en",
-          "date": "May 12, 2021",
-          "access-date": "May 13, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Janis Vitenbergs appointed economics minister",
-          "url": "https://www.baltictimes.com/janis_vitenbergs_appointed_economics_minister/",
-          "website": "www.baltictimes.com",
-          "access-date": "2020-05-25",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

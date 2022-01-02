@@ -88,49 +88,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Martins Kazaks appointed Bank of Latvia president",
-          "url": "https://www.baltictimes.com/martins_kazaks_appointed_bank_of_latvia_president/",
-          "access-date": "2021-07-03",
-          "website": "www.baltictimes.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Ekonomists Kazāks ar balsu vairākumu ievēlēts Latvijas Bankas padomē",
-          "url": "https://www.la.lv/ekonomists-kazaks-ar-balsu-vairakumu-ievelets-latvijas-bankas-padome",
-          "access-date": "2021-07-03",
-          "website": "LA.LV",
-          "language": "lv",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Upleja",
-          "first": "Sanita",
-          "date": "2019-11-25",
-          "title": "Koalīcija nosauc četrus LB prezidenta kandidātus, no kuriem izvēlēsies vienu",
-          "url": "https://www.delfi.lv/a/51667209",
-          "access-date": "2021-07-03",
-          "website": "delfi.lv",
-          "language": "lv",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Upleja",
-          "first": "Sanita",
-          "date": "2019-11-25",
-          "title": "Koalīcija nosauc četrus LB prezidenta kandidātus, no kuriem izvēlēsies vienu",
-          "url": "https://www.delfi.lv/a/51667209",
-          "access-date": "2021-07-03",
-          "website": "delfi.lv",
-          "language": "lv",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

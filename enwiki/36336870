@@ -289,65 +289,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.delfi.lv/news/national/politics/saeima-tieslietu-ministra-amata-ievel-jani-bordanu.d?id=42487086",
-          "title": "Saeima tieslietu ministra amatā ievēl Jāni Bordānu",
-          "publisher": "Delfi.lv",
-          "language": "Latvian",
-          "accessdate": "5 July 2012",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://eng.lsm.lv/article/politics/politics/janis-bordans-nominated-to-head-new-latvian-government.a298829/",
-          "title": "President Raimonds Vējonis on November 7 opted to nominate New Conservative Party leader Jānis Bordāns for the position of prime minister.",
-          "publisher": "lsm.lv",
-          "accessdate": "13 November 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2018-10-22",
-          "title": "Bordāns: Panāksim, ka Zaļo un zemnieku savienība paliek opozīcijā",
-          "url": "https://bnn.lv/bordans-panaksim-ka-i-zalo-zemnieku-savieniba-i-paliek-opozicija-301356",
-          "access-date": "2020-07-27",
-          "website": "BNN - ZIŅAS AR VĒRTĪBU",
-          "language": "lv-LV",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Žukova",
-          "first": "Katrīna",
-          "date": "2018-10-24",
-          "title": "ZZS vieta koalīcijā – uz jautājuma zīmes",
-          "url": "https://www.delfi.lv/a/50516559",
-          "access-date": "2020-07-27",
-          "website": "delfi.lv",
-          "language": "lv",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.reuters.com/article/us-latvian-politics/latvia-to-look-for-new-pm-candidate-after-cabinet-talks-fail-idUSKCN1NJ2BM",
-          "title": "Latvia to look for new PM candidate after cabinet talks fail",
-          "date": "14 November 2018",
-          "publisher": "reuters.com",
-          "accessdate": "20 November 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Krišjānis Kariņš nominated to be Latvia's next Prime Minister",
-          "url": "https://eng.lsm.lv/article/politics/politics/krisjanis-karins-nominated-to-be-latvias-next-prime-minister.a304989/",
-          "access-date": "2020-07-27",
-          "website": "eng.lsm.lv",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

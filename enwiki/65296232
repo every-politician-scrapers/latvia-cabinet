@@ -77,30 +77,6 @@
           ],
           "template": "as of"
         }
-      ],
-      "references": [
-        {
-          "title": "Nauris Puntulis",
-          "url": "https://www.mk.gov.lv/en/amatpersonas/nauris-puntulis",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20190718090745/https://www.mk.gov.lv/en/amatpersonas/nauris-puntulis",
-          "archive-date": "18 July 2019",
-          "access-date": "12 September 2020",
-          "website": "Latvian Cabinet",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Composition of the Cabinet of Ministers",
-          "url": "https://www.mk.gov.lv/en/amatpersonas",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20200618153059/https://www.mk.gov.lv/en/amatpersonas",
-          "archive-date": "18 June 2020",
-          "access-date": "12 August 2020",
-          "website": "Cabinet of Ministers",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
