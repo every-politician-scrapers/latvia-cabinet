@@ -1,6 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
 ,Q16357760,2nd Šķēle Cabinet,,,,,,,,,,,Q6436359,Krasts cabinet,,,,
-,Q3112032,Emsis Cabinet,,,,,,,,,Q3112425,Repše cabinet,Q457853,First Kalvītis cabinet,,,,
 ,Q3112692,3rd Šķēle Cabinet,,,,,,,,,Q3112208,Krištopans cabinet,Q3111942,Bērziņš cabinet,,,,
 ,Q5453056,First Godmanis cabinet,1990-05-07,11,,,1993-08-03,11,,,,,,,,,,
 ,Q4916385,Birkavs cabinet,1993-08-03,11,,,1994-09-19,11,,,,,,,,,,
@@ -10,6 +9,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q3112208,Krištopans cabinet,1998-11-26,11,,,1999-07-16,11,,,Q6436359,Krasts cabinet,Q3112692,3rd Šķēle Cabinet,,,,
 ,Q3111942,Bērziņš cabinet,2000-05-05,11,,,2002-11-07,11,,,Q3112692,3rd Šķēle Cabinet,Q3112425,Repše cabinet,,,,
 ,Q3112425,Repše cabinet,2002-11-07,11,,,2004-03-09,11,,,Q3111942,Bērziņš cabinet,Q3112032,Emsis Cabinet,,,,
+,Q3112032,Emsis Cabinet,2004-03-09,11,,,2004-12-02,11,,,Q3112425,Repše cabinet,Q457853,First Kalvītis cabinet,,,,
 ,Q457853,First Kalvītis cabinet,2004-12-02,11,,,2006-11-07,11,,,Q3112032,Emsis Cabinet,Q3112196,Second Kalvītis cabinet,,,,
 ,Q3112196,Second Kalvītis cabinet,2006-11-07,11,,,2007-12-20,11,,,Q457853,First Kalvītis cabinet,Q3028112,Second Godmanis cabinet,,,,
 ,Q3028112,Second Godmanis cabinet,2007-12-20,11,,,2009-03-12,11,,,Q3112196,Second Kalvītis cabinet,Q1719846,First Dombrovskis cabinet,,,,
