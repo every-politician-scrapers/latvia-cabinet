@@ -26,11 +26,12 @@
         {
           "sentences": [
             {
-              "text": "Arturs Krišjānis Kariņš (born 13 December 1964) is an American-Latvian politician currently serving as the Prime Minister of Latvia.",
+              "text": "Arturs Krišjānis Kariņš (born 13 December 1964) is an American-Latvian politician who has served as the prime minister of Latvia since 2019.",
               "links": [
                 {
+                  "text": "prime minister of Latvia",
                   "type": "internal",
-                  "page": "Prime Minister of Latvia"
+                  "page": "prime minister of Latvia"
                 }
               ],
               "formatting": {
