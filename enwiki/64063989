@@ -1,134 +1,14 @@
 {
-  "title": "Jānis Vitenbergs",
-  "pageID": 64063989,
-  "categories": [
-    "Latvian politicians",
-    "Living people",
-    "1985 births",
-    "Who Owns the State? politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Jānis Vitenbergs (born May 8, 1985) is a Latvian politician, who served as the Minister of Economics of the Republic of Latvia from April 2020 until May 2021.",
-              "formatting": {
-                "bold": [
-                  "Jānis Vitenbergs"
-                ]
-              }
-            },
-            {
-              "text": "Prior to this, he was the chairman of the Saeima national economic, rural, environmental, and regional policy committee.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Saeima"
-                }
-              ]
-            },
-            {
-              "text": "On June 3, he again became the Minister of Economics."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Latvian politician",
-          "template": "short description"
-        },
-        {
-          "template": "redirect",
-          "redirect": "Vitenbergs",
-          "links": [
-            {
-              "page": "Vitenberg",
-              "desc": "a similar surname"
-            }
-          ]
-        },
-        {
-          "year": "1985",
-          "month": "5",
-          "day": "8",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Jānis Vitenbergs"
-          },
-          "image": {
-            "text": "Jānis Vitenbergs in 2019.jpg"
-          },
-          "office1": {
-            "text": "Minister of Economics of Latvia"
-          },
-          "term_start1": {
-            "text": "June 3, 2021"
-          },
-          "predecessor1": {
-            "text": "Kaspars Gerhards (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kaspars Gerhards"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "April 2, 2020"
-          },
-          "term_end2": {
-            "text": "May 14, 2021"
-          },
-          "predecessor2": {
-            "text": "Ralfs Nemiro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ralfs Nemiro"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Kaspars Gerhards (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kaspars Gerhards"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "May 8, 1985"
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "party": {
-            "text": "KPV LV (2018-2021) National Alliance (2021-)",
-            "links": [
-              {
-                "text": "KPV LV",
-                "type": "internal",
-                "page": "Who owns the state?"
-              },
-              {
-                "text": "National Alliance",
-                "type": "internal",
-                "page": "National Alliance (Latvia)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Jānis Vitenbergs",
+  "image": "Jānis Vitenbergs in 2019.jpg",
+  "office1": "Minister of Economics of Latvia",
+  "term_start1": "June 3, 2021",
+  "predecessor1": "Kaspars Gerhards (acting)",
+  "term_start2": "April 2, 2020",
+  "term_end2": "May 14, 2021",
+  "predecessor2": "Ralfs Nemiro",
+  "successor2": "Kaspars Gerhards (acting)",
+  "birth_date": "May 8, 1985",
+  "occupation": "Politician",
+  "party": "KPV LV (2018-2021) National Alliance (2021-)"
 }

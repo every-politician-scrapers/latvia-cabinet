@@ -1,142 +1,15 @@
 {
-  "title": "Egils Leščinskis",
-  "pageID": 66955279,
-  "categories": [
-    "Living people",
-    "Latvian generals",
-    "1960s births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Brigadier General Egils Leščinskis (born July 18, 1967) is an active duty Latvian officer who has been serving as the Commanding General of the Latvian National Guard since May 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Brigadier General"
-                },
-                {
-                  "text": "Latvian",
-                  "type": "internal",
-                  "page": "Latvian National Armed Forces"
-                },
-                {
-                  "type": "internal",
-                  "page": "Latvian National Guard"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Egils Leščinskis"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Latvian Army officer (born c. 1967)",
-          "template": "short description"
-        },
-        {
-          "year": "1967",
-          "month": "7",
-          "day": "18",
-          "mf": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "Brigadier General",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brigadier General"
-              }
-            ]
-          },
-          "name": {
-            "text": "Egils Leščinskis"
-          },
-          "birth_date": {
-            "text": "July 18, 1967"
-          },
-          "birth_place": {
-            "text": "Latvian SSR",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Latvian SSR"
-              }
-            ]
-          },
-          "placeofburial_label": {
-            "text": "Place of burial"
-          },
-          "image": {
-            "text": "Egils Leščinskis in 2019.jpg"
-          },
-          "caption": {
-            "text": "Brigadier General Egils Leščinskis, c. 2019"
-          },
-          "allegiance": {
-            "text": "Latvia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Latvia"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1991–present"
-          },
-          "rank": {
-            "text": "Brigadier General",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brigadier General"
-              }
-            ]
-          },
-          "commands": {
-            "text": "Latvian National Guard",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Latvian National Guard"
-              }
-            ]
-          },
-          "awards": {
-            "text": "Commander of the Order of Viesturs",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Order of Viesturs"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Riga Technical University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Riga Technical University"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "Brigadier General",
+  "name": "Egils Leščinskis",
+  "birth_date": "July 18, 1967",
+  "birth_place": "Latvian SSR",
+  "placeofburial_label": "Place of burial",
+  "image": "Egils Leščinskis in 2019.jpg",
+  "caption": "Brigadier General Egils Leščinskis, c. 2019",
+  "allegiance": "Latvia",
+  "serviceyears": "1991–present",
+  "rank": "Brigadier General",
+  "commands": "Latvian National Guard",
+  "awards": "Commander of the Order of Viesturs",
+  "alma_mater": "Riga Technical University"
 }
