@@ -15,7 +15,15 @@ class OfficeholderList < OfficeholderListBase
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[_ img dates].freeze
+      %w[_ name dates].freeze
+    end
+
+    def raw_combo_date
+      super.gsub(/\(.*?\)/, '').gsub(/Depuis le (.*)/, '\1 - Incumbent').tidy
+    end
+
+    def empty?
+      too_early?
     end
   end
 end
