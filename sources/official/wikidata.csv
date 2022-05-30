@@ -1,4 +1,5 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q112116813,Kristaps Eklons,Kristaps Eklons,male,1971-08-04,11,https://www.mk.gov.lv/en/cabinet-composition,2022-05-30,Q107710591,Minister for Interior,2022-05-26,Q112116813-ede50c92-4f9a-b044-c3ed-a683a0a73316
 Q11731915,Jānis Reirs,Jānis Reirs,male,1961-09-23,11,https://www.mk.gov.lv/en/cabinet-composition,2021-07-30,Q6590389,Minister for Finance,2019-01-23,Q11731915-116FB092-6E6F-4746-B96F-6005D87360BF
 Q3015072,Daniels Pavļuts,Daniels Pavļuts,male,1976-05-14,11,https://www.mk.gov.lv/en/cabinet-composition,2021-07-30,Q98966157,Minister for Health,2021-01-08,Q3015072-375DB2F6-D6E1-4386-AC01-5957F805BF4B
 Q3047551,Edgars Rinkēvičs,Edgars Rinkēvičs,male,1973-09-21,11,https://www.mk.gov.lv/en/cabinet-composition,2021-07-30,Q57125919,Minister for Foreign Affairs,2011-10-25,Q3047551-A934D6EB-A747-4A91-8617-192120C66785
@@ -7,8 +8,7 @@ Q3191217,Jānis Bordāns,Jānis Bordāns,male,1967-06-21,11,https://www.mk.gov.l
 Q3736499,Krišjānis Kariņš,Krišjānis Kariņš,male,1964-12-13,11,https://www.mk.gov.lv/en/cabinet-composition,2021-08-29,Q369500,Prime Minister,2019-01-23,Q3736499-6bc9d4e3-4e1f-820c-a4ff-b205381345f2
 Q56449573,Nauris Puntulis,Nauris Puntulis,male,1961-07-17,11,https://www.mk.gov.lv/en/cabinet-composition,2021-07-30,Q25907368,Minister for Culture,2019-07-08,Q56449573-01F1A53B-A425-475B-92F5-C09E31BAF564
 Q58371477,Gatis Eglītis,Gatis Eglītis,male,1978-01-01,9,https://www.mk.gov.lv/en/cabinet-composition,2021-07-31,Q16361597,Minister for Welfare,2021-06-03,Q58371477-124F45A6-DFF3-44FC-96AC-B5D321185D87
-Q58371482,Marija Golubeva,Marija Golubeva,female,1973-01-01,9,https://www.mk.gov.lv/en/cabinet-composition,2021-07-31,Q107710591,Minister for Interior,2021-06-03,Q58371482-E85411E3-703A-4AD1-ABE2-6106D19300F2
-Q58371485,Ilze Indriksone,Ilze Indriksone,female,1974-01-01,9,,,Q20557220,Minister of the Economy,2022-05-26,Q58371485-e4f3f77f-4563-e1a8-ae25-41346a72b7eb
+Q58371485,Ilze Indriksone,Ilze Indriksone,female,1974-01-01,9,https://www.mk.gov.lv/en/cabinet-composition,2022-05-30,Q20557220,Minister for Economics,2022-05-26,Q58371485-e4f3f77f-4563-e1a8-ae25-41346a72b7eb
 Q58371498,Tālis Linkaits,Tālis Linkaits,male,1970-08-18,11,https://www.mk.gov.lv/en/cabinet-composition,2021-07-30,Q16361608,Minister for Transport,2019-01-23,Q58371498-D519BC57-FE21-4B4B-B939-BFE37EAC3D80
 Q58371500,Anita Muižniece,Anita Muižniece,female,1987-01-01,9,https://www.mk.gov.lv/en/cabinet-composition,2021-07-30,Q16361594,Minister for Education and Science,2021-06-03,Q58371500-C0C57051-B2F1-424B-BB8B-E8D0DA95C6A6
 Q58371508,Arturs Toms Plešs,Artūrs Toms Plešs,male,1992-01-01,9,https://www.mk.gov.lv/en/cabinet-composition,2021-07-30,Q16361617,Minister for Environmental Protection and Regional Development,2020-12-17,Q58371508-408B3082-0ECF-4A95-823D-847D9875BF0C
