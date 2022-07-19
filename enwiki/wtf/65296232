@@ -1,0 +1,122 @@
+{
+  "title": "Nauris Puntulis",
+  "pageID": 65296232,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "21st-century Latvian politicians",
+    "National Alliance (Latvia) politicians",
+    "Ministers of Culture of Latvia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nauris Puntulis is a Latvian politician.",
+              "formatting": {
+                "bold": [
+                  "Nauris Puntulis"
+                ]
+              }
+            },
+            {
+              "text": ", he serves as Minister of Culture in the Kariņš cabinet.",
+              "links": [
+                {
+                  "text": "Minister of Culture",
+                  "type": "internal",
+                  "page": "List of Ministers of Culture of Latvia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kariņš cabinet"
+                }
+              ]
+            },
+            {
+              "text": "He is affiliated with the National Alliance party.",
+              "links": [
+                {
+                  "text": "National Alliance",
+                  "type": "internal",
+                  "page": "National Alliance (Latvia)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Nauris_Puntulis_in_2019.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Nauris_Puntulis_in_2019.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Nauris_Puntulis_in_2019.jpg",
+          "caption": "Nauris Puntulis in 2019.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Latvian politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2020",
+          "template": "expand latvian"
+        },
+        {
+          "list": [
+            "2019",
+            "7",
+            "8"
+          ],
+          "template": "as of"
+        }
+      ],
+      "references": [
+        {
+          "title": "Nauris Puntulis",
+          "url": "https://www.mk.gov.lv/en/amatpersonas/nauris-puntulis",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20190718090745/https://www.mk.gov.lv/en/amatpersonas/nauris-puntulis",
+          "archive-date": "18 July 2019",
+          "access-date": "12 September 2020",
+          "website": "Latvian Cabinet",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Composition of the Cabinet of Ministers",
+          "url": "https://www.mk.gov.lv/en/amatpersonas",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20200618153059/https://www.mk.gov.lv/en/amatpersonas",
+          "archive-date": "18 June 2020",
+          "access-date": "12 August 2020",
+          "website": "Cabinet of Ministers",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "latvia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "title": "Artūrs Toms Plešs",
+  "pageID": 66591107,
+  "categories": [
+    "Living people",
+    "1992 births",
+    "Place of birth missing (living people)",
+    "21st-century Latvian politicians",
+    "Ministers of the Environment of Latvia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Artūrs Toms Plešs (born 4 January 1992) is a Latvian politician.",
+              "formatting": {
+                "bold": [
+                  "Artūrs Toms Plešs"
+                ]
+              }
+            },
+            {
+              "text": "he serves as Minister for Environmental Protection and Regional Development in the cabinet of Prime Minister Arturs Krišjānis Kariņš.",
+              "links": [
+                {
+                  "text": "the cabinet",
+                  "type": "internal",
+                  "page": "Kariņš cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Arturs Krišjānis Kariņš"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Latvian politician",
+          "template": "short description"
+        },
+        {
+          "date": "February 2021",
+          "template": "expand latvian"
+        },
+        {
+          "df": "yes",
+          "year": "1992",
+          "month": "1",
+          "day": "4",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2020",
+            "12",
+            "17"
+          ],
+          "post": ",",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Artūrs Toms Plešs"
+          },
+          "image": {
+            "text": "13.Saeimas deputātu svinīgais solījums (44868562475).jpg"
+          },
+          "caption": {
+            "text": "Artūrs Toms Plešs in 2018"
+          },
+          "office": {
+            "text": "Minister for Environmental Protection and Regional Development"
+          },
+          "primeminister": {
+            "text": "Arturs Krišjānis Kariņš",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arturs Krišjānis Kariņš"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 December 2020"
+          },
+          "predecessor": {
+            "text": "Juris Pūce",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juris Pūce"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 4, 1992"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "17 December 2020",
+          "title": "Latvia's Environment Protection Ministry gets a new head – Artūrs Toms Plešs",
+          "journal": "Baltic News Network",
+          "url": "https://bnn-news.com/latvias-environment-protection-ministry-gets-a-new-head-arturs-toms-pless-219895",
+          "url-status": "live",
+          "access-date": "2 February 2021",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "date": "17 December 2020",
+          "title": "Par VARAM ministru apstiprināts Artūrs Toms Plešs",
+          "work": "Dzirkstele.lv",
+          "url": "https://dzirkstele.lv/latvijas-zinas/par-varam-ministru-apstiprinats-arturs-toms-pless-178256",
+          "url-status": "live",
+          "access-date": "2 February 2021",
+          "language": "lv",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "latvia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

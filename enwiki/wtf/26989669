@@ -1,0 +1,126 @@
+{
+  "title": "Kaspars Gerhards",
+  "pageID": 26989669,
+  "categories": [
+    "1969 births",
+    "Living people",
+    "People from Jelgava",
+    "Ministers of Economics of Latvia",
+    "Transport ministers of Latvia",
+    "Ministers of the Environment of Latvia",
+    "Ministers of Agriculture of Latvia",
+    "For Fatherland and Freedom/LNNK politicians",
+    "National Alliance (Latvia) politicians",
+    "University of Latvia alumni",
+    "Recipients of the Order of Prince Yaroslav the Wise, 3rd class"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kaspars Gerhards (born 7 February 1969 in Jelgava, Latvia) is a Latvian politician of the TB/LNNK (2008–11), respectively National Alliance (since 2011) party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jelgava"
+                },
+                {
+                  "type": "internal",
+                  "page": "Latvia"
+                },
+                {
+                  "text": "Latvian",
+                  "type": "internal",
+                  "page": "Latvian people"
+                },
+                {
+                  "text": "TB/LNNK",
+                  "type": "internal",
+                  "page": "For Fatherland and Freedom/LNNK"
+                },
+                {
+                  "text": "National Alliance",
+                  "type": "internal",
+                  "page": "National Alliance (Latvia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kaspars Gerhards"
+                ]
+              }
+            },
+            {
+              "text": "He was the economy minister from 2007 to 2009, minister of transport from 2009 to 2010 and minister of environmental protection and regional development from 2014 to 2019.",
+              "links": [
+                {
+                  "text": "economy minister",
+                  "type": "internal",
+                  "page": "Ministry of Economics (Latvia)"
+                },
+                {
+                  "text": "minister of transport",
+                  "type": "internal",
+                  "page": "Ministry of Transport (Latvia)"
+                }
+              ]
+            },
+            {
+              "text": "Since January 2019 he has served as minister of agriculture of Latvia."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Izglītības_un_zinātnes_ministrijas,_Vides_aizsardzības_un_reģionālās_attīstības_ministrijas_un_UNESCO_Latvijas_Nacionālās_komisijas_sadarbības_līguma_parakstīšana_(37341129046).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Izgl%C4%ABt%C4%ABbas_un_zin%C4%81tnes_ministrijas%2C_Vides_aizsardz%C4%ABbas_un_re%C4%A3ion%C4%81l%C4%81s_att%C4%ABst%C4%ABbas_ministrijas_un_UNESCO_Latvijas_Nacion%C4%81l%C4%81s_komisijas_sadarb%C4%ABbas_l%C4%ABguma_parakst%C4%AB%C5%A1ana_(37341129046).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Izgl%C4%ABt%C4%ABbas_un_zin%C4%81tnes_ministrijas%2C_Vides_aizsardz%C4%ABbas_un_re%C4%A3ion%C4%81l%C4%81s_att%C4%ABst%C4%ABbas_ministrijas_un_UNESCO_Latvijas_Nacion%C4%81l%C4%81s_komisijas_sadarb%C4%ABbas_l%C4%ABguma_parakst%C4%AB%C5%A1ana_(37341129046).jpg",
+          "caption": "Kaspars Gerhards in 2017",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Latvian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.ekonomisti.lv/index.php?id=46",
+          "title": "Kaspars Gerhards",
+          "publisher": "Latvian Economists Association 2010",
+          "accessdate": "2010-11-03",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Kaspars Gerhards"
+          ],
+          "template": "commons category"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "latvia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

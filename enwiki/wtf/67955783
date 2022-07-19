@@ -1,0 +1,199 @@
+{
+  "title": "Gatis Eglītis",
+  "pageID": 67955783,
+  "categories": [
+    "1978 births",
+    "Living people",
+    "New Conservative Party (Latvia) politicians",
+    "Ministers of Welfare of Latvia",
+    "People from Dobele"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gatis Eglītis (born 4 December 1978) is a Latvian politician, who from 3 June 2021 has served as Ministry of Welfare (Latvia) in the Kariņš cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kariņš cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gatis Eglītis"
+                ]
+              }
+            },
+            {
+              "text": "A member of The Conservatives, he served as a member of the Parliament of Latvia between 6 November 2018 and 8 June 2021.",
+              "links": [
+                {
+                  "text": "The Conservatives",
+                  "type": "internal",
+                  "page": "The Conservatives (Latvia)"
+                },
+                {
+                  "text": "Parliament of Latvia",
+                  "type": "internal",
+                  "page": "Saeima"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Latvian politician",
+          "template": "short description"
+        },
+        {
+          "date": "June 2021",
+          "template": "refimprove"
+        },
+        {
+          "text": "Ministry of Welfare (Latvia)",
+          "lt": "Minister of Welfare",
+          "lan1": "lv",
+          "text1": "Latvijas Republikas Labklājības ministrija",
+          "template": "ill"
+        },
+        {
+          "year": "1978",
+          "month": "12",
+          "day": "04",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "text": "Ministry of Welfare (Latvia)",
+          "lt": "Minister of Welfare",
+          "lan1": "lv",
+          "text1": "Latvijas Republikas Labklājības ministrija",
+          "lan2": "es",
+          "text2": "Ministerio de Bienestar de Letonia",
+          "template": "ill"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Gatis Eglītis"
+          },
+          "office": {
+            "text": "Ministry of Welfare (Latvia)"
+          },
+          "termstart": {
+            "text": "3 June 2021"
+          },
+          "president": {
+            "text": "Egils Levits",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Egils Levits"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Arturs Krišjānis Kariņš",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arturs Krišjānis Kariņš"
+              }
+            ]
+          },
+          "preceded": {
+            "text": "Ramona Petraviča",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ramona Petraviča"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Dobele, Latvian SSR (now Latvia)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dobele"
+              },
+              {
+                "type": "internal",
+                "page": "Latvian SSR"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 4, 1978"
+          },
+          "party": {
+            "text": "The Conservatives",
+            "links": [
+              {
+                "text": "The Conservatives",
+                "type": "internal",
+                "page": "The Conservatives (Latvia)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Gatis Eglītis 2020.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "latvia-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "1) Gatis Eglītis Cabinet of Ministers. Archived from the original June 5 2021. Retrieved June 15 2021.",
+            "links": [
+              {
+                "text": "''Gatis Eglītis''",
+                "type": "external",
+                "site": "https://www.mk.gov.lv/en/employee/gatis-eglitis"
+              },
+              {
+                "text": "Archived",
+                "type": "external",
+                "site": "https://web.archive.org/web/20210605222047/https://www.mk.gov.lv/en/employee/gatis-eglitis"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Gatis Eglītis",
+                "Cabinet of Ministers."
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  ]
+}

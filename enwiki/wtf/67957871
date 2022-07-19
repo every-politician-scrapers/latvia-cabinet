@@ -1,0 +1,161 @@
+{
+  "title": "Tālis Linkaits",
+  "pageID": 67957871,
+  "categories": [
+    "Living people",
+    "1970 births",
+    "20th-century Latvian politicians",
+    "New Conservative Party (Latvia) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tālis Linkaits (born 18 August 1970) is a Latvian politician.",
+              "formatting": {
+                "bold": [
+                  "Tālis Linkaits"
+                ]
+              }
+            },
+            {
+              "text": "As of 23 January 2019, he serves as Minister for Transport in the cabinet of Prime Minister Arturs Krišjānis Kariņš.",
+              "links": [
+                {
+                  "text": "the cabinet",
+                  "type": "internal",
+                  "page": "Kariņš cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Arturs Krišjānis Kariņš"
+                }
+              ]
+            },
+            {
+              "text": "He represents The Conservatives.",
+              "links": [
+                {
+                  "text": "The Conservatives",
+                  "type": "internal",
+                  "page": "The Conservatives (Latvia)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Latvian politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tālis Linkaits"
+          },
+          "office": {
+            "text": "Minister for Transport"
+          },
+          "termstart": {
+            "text": "23 January 2019"
+          },
+          "predecessor": {
+            "text": "Uldis Augulis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uldis Augulis"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Arturs Krišjānis Kariņš",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arturs Krišjānis Kariņš"
+              }
+            ]
+          },
+          "president": {
+            "text": "Raimonds Vējonis                                                               \nEgils Levits",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raimonds Vējonis"
+              },
+              {
+                "type": "internal",
+                "page": "Egils Levits"
+              }
+            ]
+          },
+          "image": {
+            "text": "Tālis_Linkaits_in_2018.jpg"
+          },
+          "birth_date": {
+            "text": "18 August 1970"
+          },
+          "party": {
+            "text": "The Conservatives",
+            "links": [
+              {
+                "text": "The Conservatives",
+                "type": "internal",
+                "page": "The Conservatives (Latvia)"
+              }
+            ]
+          },
+          "education": {
+            "text": "University of Latvia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Latvia"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Cabinet composition {{!}} Ministru kabinets",
+          "url": "https://www.mk.gov.lv/en/cabinet-composition",
+          "access-date": "2021-06-16",
+          "website": "www.mk.gov.lv",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Talis LINKAITS {{!}} Satiksmes ministrija",
+          "url": "https://www.sam.gov.lv/en/node/4",
+          "access-date": "2021-06-16",
+          "website": "www.sam.gov.lv",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "latvia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
