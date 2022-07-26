@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Economics (Latvia)"
+      ],
+      "stated_as": "Minister for Economics of Latvia"
+    },
+    "P580": "2011-10-25",
+    "P1365": {
+      "links": [
+        "Artis Kampars"
+      ],
+      "stated_as": "Artis Kampars"
+    },
+    "P582": "2014-01-22",
+    "P1366": {
+      "links": [
+        "Vjačeslavs Dombrovskis"
+      ],
+      "stated_as": "Vjačeslavs Dombrovskis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health (Latvia)"
+      ],
+      "stated_as": "Minister for Health of Latvia"
+    },
+    "P580": "2021-01-07",
+    "P1365": {
+      "links": [
+        "Ilze Viņķele"
+      ],
+      "stated_as": "Ilze Viņķele"
+    }
+  }
+]

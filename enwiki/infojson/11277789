@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Economics (Latvia)"
+      ],
+      "stated_as": "Minister for Economics"
+    },
+    "P580": "2004-12-02",
+    "P1365": {
+      "links": [
+        "Juris Lujāns"
+      ],
+      "stated_as": "Juris Lujāns"
+    },
+    "P582": "2006-04-07",
+    "P1366": {
+      "links": [
+        "Aigars Štokenbergs"
+      ],
+      "stated_as": "Aigars Štokenbergs"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the European Parliament"
+      ],
+      "stated_as": "Member of the European Parliament"
+    },
+    "P580": "2009-07-14",
+    "P582": "2019-01-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Latvia"
+      ],
+      "stated_as": "23rd Prime Minister of Latvia"
+    },
+    "P580": "2019-01-23",
+    "P1365": {
+      "links": [
+        "Māris Kučinskis"
+      ],
+      "stated_as": "Māris Kučinskis"
+    }
+  }
+]

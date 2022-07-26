@@ -1,0 +1,50 @@
+[
+  {
+    "office": {
+      "links": [
+        "Saeima"
+      ],
+      "stated_as": "Deputy to the Saeima"
+    },
+    "P580": "2018-11-06",
+    "P582": "2020-06-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Latvia)"
+      ],
+      "stated_as": "Parliamentary Secretary to the Minister of Defence"
+    },
+    "P580": "2019-02-01",
+    "P1365": {
+      "links": [
+        "Viesturs Silenieks"
+      ],
+      "stated_as": "Viesturs Silenieks"
+    },
+    "P582": "2020-08-21",
+    "P1366": {
+      "links": [
+        "Baiba Bļodniece"
+      ],
+      "stated_as": "Baiba Bļodniece"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Riga"
+      ],
+      "stated_as": "Mayor of Riga"
+    },
+    "P580": "2020-10-02",
+    "P1365": {
+      "links": [
+        "Oļegs Burovs",
+        "Riga City Council"
+      ],
+      "stated_as": "Oļegs Burovs\n(Interim administration since February 2020)"
+    }
+  }
+]

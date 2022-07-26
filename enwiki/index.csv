@@ -1,19 +1,19 @@
-pageid,title
-846920,Artis Pabriks
-11277789,Arturs Krišjānis Kariņš
-26988829,Māris Riekstiņš
-26989669,Kaspars Gerhards
-34375755,Edgars Rinkēvičs
-34594685,Daniels Pavļuts
-36336870,Jānis Bordāns
-44300955,Ināra Mūrniece
-46879917,Egils Levits
-55881027,Jānis Reirs
-65296232,Nauris Puntulis
-65478820,Mārtiņš Staķis
-66591107,Artūrs Toms Plešs
-66955279,Egils Leščinskis
-67955365,Anita Muižniece
-67955783,Gatis Eglītis
-67957871,Tālis Linkaits
-68126458,Mārtiņš Kazāks
+pageid,title,wikidata,label
+846920,Artis Pabriks,Q713138,Artis Pabriks
+11277789,Arturs Krišjānis Kariņš,Q3736499,Krišjānis Kariņš
+26988829,Māris Riekstiņš,Q1368924,Māris Riekstiņš
+26989669,Kaspars Gerhards,Q6111944,Kaspars Gerhards
+34375755,Edgars Rinkēvičs,Q3047551,Edgars Rinkēvičs
+34594685,Daniels Pavļuts,Q3015072,Daniels Pavļuts
+36336870,Jānis Bordāns,Q3191217,Jānis Bordāns
+44300955,Ināra Mūrniece,Q4308133,Ināra Mūrniece
+46879917,Egils Levits,Q348043,Egils Levits
+55881027,Jānis Reirs,Q11731915,Jānis Reirs
+65296232,Nauris Puntulis,Q56449573,Nauris Puntulis
+65478820,Mārtiņš Staķis,Q58371519,Mārtiņš Staķis
+66591107,Artūrs Toms Plešs,Q58371508,Artūrs Toms Plešs
+66955279,Egils Leščinskis,Q66988815,Egils Leščinskis
+67955365,Anita Muižniece,Q58371500,Anita Muižniece
+67955783,Gatis Eglītis,Q58371477,Gatis Eglītis
+67957871,Tālis Linkaits,Q58371498,Tālis Linkaits
+68126458,Mārtiņš Kazāks,Q78191477,Mārtiņš Kazāks

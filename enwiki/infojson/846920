@@ -1,0 +1,72 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister for Foreign Affairs of Latvia"
+      ],
+      "stated_as": "Minister for Foreign Affairs of Latvia"
+    },
+    "P580": "2004-07-21",
+    "P1365": {
+      "links": [
+        "Rihards Pīks"
+      ],
+      "stated_as": "Rihards Pīks"
+    },
+    "P582": "2007-10-28",
+    "P1366": {
+      "links": [
+        "Māris Riekstiņš"
+      ],
+      "stated_as": "Māris Riekstiņš"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Defence of Latvia"
+      ],
+      "stated_as": "Minister for Defence of Latvia"
+    },
+    "P580": "2010-11-03",
+    "P1365": {
+      "links": [
+        "Imants Lieģis"
+      ],
+      "stated_as": "Imants Lieģis"
+    },
+    "P582": "2014-01-22",
+    "P1366": {
+      "links": [
+        "Raimonds Vējonis"
+      ],
+      "stated_as": "Raimonds Vējonis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the European Parliament",
+        "Latvia (European Parliament constituency)"
+      ],
+      "stated_as": "Member of the European Parliament for Latvia"
+    },
+    "P580": "2014-07-01",
+    "P582": "2018-11-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Defence of Latvia"
+      ],
+      "stated_as": "Minister for Defence of Latvia"
+    },
+    "P580": "2019-01-23",
+    "P1365": {
+      "links": [
+        "Raimonds Bergmanis"
+      ],
+      "stated_as": "Raimonds Bergmanis"
+    }
+  }
+]

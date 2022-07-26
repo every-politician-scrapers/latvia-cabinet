@@ -1,0 +1,81 @@
+[
+  {
+    "office": {
+      "links": [
+        "Saeima"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "1993-07-07",
+    "P582": "1994-10-05"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Justice of Latvia"
+    },
+    "P580": "1993-08-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Viktors Skudra"
+    },
+    "P582": "1994-09-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Romāns Apsītis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice-Prime Minister of Latvia"
+    },
+    "P580": "1993-08-03",
+    "P582": "1994-09-19"
+  },
+  {
+    "office": {
+      "links": [
+        "European Court of Justice"
+      ],
+      "stated_as": "Judge of the European Court of Justice"
+    },
+    "P580": "2004-05-11",
+    "P1365": {
+      "links": [
+        "Fidelma Macken"
+      ],
+      "stated_as": "Fidelma Macken"
+    },
+    "P582": "2019-06-17",
+    "P1366": {
+      "links": [
+        "Niilo Jääskinen"
+      ],
+      "stated_as": "Niilo Jääskinen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Latvia"
+      ],
+      "stated_as": "10th President of Latvia"
+    },
+    "P580": "2019-07-08",
+    "P1365": {
+      "links": [
+        "Raimonds Vējonis"
+      ],
+      "stated_as": "Raimonds Vējonis"
+    }
+  }
+]
