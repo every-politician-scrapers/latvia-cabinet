@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Justice (Latvia)"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2012-07-05",
+    "P1365": {
+      "links": [
+        "Gaidis Bērziņš"
+      ],
+      "stated_as": "Gaidis Bērziņš"
+    },
+    "P582": "2014-01-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Baiba Broka"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Justice (Latvia)"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2019-01-23",
+    "P1365": {
+      "links": [
+        "Dzintars Rasnačs"
+      ],
+      "stated_as": "Dzintars Rasnačs"
+    }
+  }
+]

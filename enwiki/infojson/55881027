@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Finance of Latvia"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2014-11-05",
+    "P1365": {
+      "links": [
+        "Andris Vilks"
+      ],
+      "stated_as": "Andris Vilks"
+    },
+    "P582": "2016-02-11",
+    "P1366": {
+      "links": [
+        "Dana Reizniece-Ozola"
+      ],
+      "stated_as": "Dana Reizniece-Ozola"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Welfere"
+    },
+    "P580": "2016-02-11",
+    "P1365": {
+      "links": [
+        "Uldis Augulis"
+      ],
+      "stated_as": "Uldis Augulis"
+    },
+    "P582": "2019-01-23",
+    "P1366": {
+      "links": [
+        "Ramona Petraviča"
+      ],
+      "stated_as": "Ramona Petraviča"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Finance of Latvia"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2019-01-23",
+    "P1365": {
+      "links": [
+        "Dana Reizniece-Ozola"
+      ],
+      "stated_as": "Dana Reizniece-Ozola"
+    }
+  }
+]

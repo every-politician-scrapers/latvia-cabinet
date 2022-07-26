@@ -1,0 +1,109 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Latvian ambassadors to the United States"
+      ],
+      "stated_as": "Ambassador of Latvia to the United States"
+    },
+    "P580": "2004-12",
+    "P1365": {
+      "links": [
+        "Aivis Ronis"
+      ],
+      "stated_as": "Aivis Ronis"
+    },
+    "P582": "2007-01",
+    "P1366": {
+      "links": [
+        "Andrejs Pildegovičs"
+      ],
+      "stated_as": "Andrejs Pildegovičs"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of Staff to the Prime Minister (Latvia)"
+      ],
+      "stated_as": "Chief of Staff to the Prime Minister"
+    },
+    "P580": "2007-01",
+    "P1365": {
+      "links": [
+        "Jurģis Liepnieks"
+      ],
+      "stated_as": "Jurģis Liepnieks"
+    },
+    "P582": "2007-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Latvia)"
+      ],
+      "stated_as": "Minister of Foreign Affairs of Latvia"
+    },
+    "P580": "2007-11-08",
+    "P1365": {
+      "links": [
+        "Artis Pabriks"
+      ],
+      "stated_as": "Artis Pabriks"
+    },
+    "P582": "2010-04-28",
+    "P1366": {
+      "links": [
+        "Aivis Ronis"
+      ],
+      "stated_as": "Aivis Ronis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Permanent Representatives of Latvia to NATO"
+      ],
+      "stated_as": "Permanent Representative of Latvia to NATO"
+    },
+    "P580": "2011-02-02",
+    "P582": "2015-08-31",
+    "P1366": {
+      "links": [
+        "Indulis Bērziņš"
+      ],
+      "stated_as": "Indulis Bērziņš"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Inspector General for the Ministry of Foreign Affairs of Latvia"
+      ],
+      "stated_as": "Inspector General for the Ministry of Foreign Affairs of Latvia"
+    },
+    "P580": "2015-09-05",
+    "P1365": {
+      "links": [
+        "Indulis Bērziņš"
+      ],
+      "stated_as": "Indulis Bērziņš"
+    },
+    "P582": "2017-09-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Ambassador of Latvia to the Russian Federation"
+      ],
+      "stated_as": "Ambassador of Latvia to the Russian Federation"
+    },
+    "P580": "2017-09-05",
+    "P1365": {
+      "links": [
+        "Astra Kurme"
+      ],
+      "stated_as": "Astra Kurme"
+    }
+  }
+]
