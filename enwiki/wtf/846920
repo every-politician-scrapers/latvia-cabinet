@@ -372,40 +372,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Pabriks speaks fluent Latvian, Russian, and English, as well as some German and Danish.",
-              "links": [
-                {
-                  "text": "Latvian",
-                  "type": "internal",
-                  "page": "Latvian language"
-                },
-                {
-                  "text": "Russian",
-                  "type": "internal",
-                  "page": "Russian language"
-                },
-                {
-                  "text": "English",
-                  "type": "internal",
-                  "page": "English language"
-                },
-                {
-                  "text": "German",
-                  "type": "internal",
-                  "page": "German language"
-                },
-                {
-                  "text": "Danish",
-                  "type": "internal",
-                  "page": "Danish language"
-                }
-              ]
-            }
-          ]
         }
       ],
       "references": [
@@ -767,6 +733,36 @@
           "sentences": [
             {
               "text": "Pabriks has a daughter from a previous marriage and two children from his wife Undine, an ethnic German."
+            },
+            {
+              "text": "Pabriks speaks fluent Latvian, Russian, and English, as well as some German and Danish.",
+              "links": [
+                {
+                  "text": "Latvian",
+                  "type": "internal",
+                  "page": "Latvian language"
+                },
+                {
+                  "text": "Russian",
+                  "type": "internal",
+                  "page": "Russian language"
+                },
+                {
+                  "text": "English",
+                  "type": "internal",
+                  "page": "English language"
+                },
+                {
+                  "text": "German",
+                  "type": "internal",
+                  "page": "German language"
+                },
+                {
+                  "text": "Danish",
+                  "type": "internal",
+                  "page": "Danish language"
+                }
+              ]
             }
           ]
         }
