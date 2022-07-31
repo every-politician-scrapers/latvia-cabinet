@@ -1133,7 +1133,13 @@
         {
           "sentences": [
             {
-              "text": "Levits is married to Andra Levite, a gynecologist, and has a son named Linards and a daughter named Indra."
+              "text": "Levits is married to Andra Levite, a gynecologist, and has a son named Linards and a daughter named Indra.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andra Levite"
+                }
+              ]
             },
             {
               "text": "In 2019, Levits released his first book ''Valstsgriba."
